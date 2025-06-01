@@ -4,5 +4,5 @@
 pip install tensorflow opencv-python matplotlib
 
 <h2> INFO 📌</h2>
-Todas as imagens fornecidas pelo professor do curso de Biomedicina do Centro Universitário Católica de Santa Catarina <br>
-se encontram na pasta /images
+Todas as imagens fornecidas pelo professor do curso de Biomedicina do Centro Universitário Católica <br>
+de Santa Catarina se encontram na pasta /images
